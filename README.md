@@ -1,6 +1,7 @@
 # Credit Risk Analysis
 
 ## Overview of Analysis
+An analysis was conducted to find the best way to determine credit risk for individuals when the majority of accounts are considered "low risk." 
 
 ## Results
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
